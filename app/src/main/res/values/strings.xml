@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Engagement Client</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="happy1">Happy button 1</string>
+    <string name="happy2">Happy button 2</string>
+    <string name="happy3">Happy button 3</string>
+    <string name="happy4">Happy button 4</string>
+    <string name="happy5">Happy button 5</string>
+
+</resources>
